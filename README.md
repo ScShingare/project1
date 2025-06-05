@@ -1,5 +1,7 @@
-![Screenshot 2025-06-05 152045](https://github.com/user-attachments/assets/f6866e37-995d-4905-af88-5a0e5785f2ee)
+
 ![Screenshot 2025-06-05 152113](https://github.com/user-attachments/assets/5176fa86-33e2-4423-ab16-f9f216717d73)
+![Screenshot 2025-06-05 152045](https://github.com/user-attachments/assets/f6866e37-995d-4905-af88-5a0e5785f2ee)
+
 
 # Employee Management System
 
