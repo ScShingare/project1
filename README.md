@@ -60,8 +60,6 @@ employee-management/
 
 Developed by: Shital Shingare
 
-## 📄 License
-
 Feel Free to Modify it...
 
 
